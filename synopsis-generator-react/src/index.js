@@ -49,7 +49,7 @@ function openai(prompt)
     }
     fetch("https://api.openai.com/v1/engines/davinci/completions", {
       method: "POST",
-      headers: {'Content-Type': 'application/json', "Authorization": "Bearer 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"
+      headers: {'Content-Type': 'application/json', "Authorization": "Bearer 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"
     }, 
       body: JSON.stringify(data)
     }).then(res => {

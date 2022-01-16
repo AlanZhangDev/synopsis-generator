@@ -31,10 +31,11 @@ class Form extends Component {
                 {/*<input className="book-1-selector" type="text" name="book-2-selector" list=book-selector placeholder="E.g. Anna Karenina" required/>*/}
             </form>
 
-            
-            <button id="enter">
+            <center>
+            <button id="enter" >
               Enter
             </button>
+            </center>
 
             <p id="output">
 

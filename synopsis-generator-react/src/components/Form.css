@@ -34,3 +34,13 @@ h3 {
     padding: 5px;
     width: 50%;
 }
+
+button {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ae847e;
+    background: transparent;
+    color: #ae847e;
+    cursor: pointer;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
