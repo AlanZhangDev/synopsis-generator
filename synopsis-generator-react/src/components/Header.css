@@ -1,0 +1,38 @@
+.background {
+    margin: 0px;
+    padding: 100px;
+}
+
+.image {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/7/74/Original_William_Morris%27s_patterns%2C_digitally_enhanced_by_rawpixel_00008.jpg);
+    background-attachment: fixed;
+    background-position: 0px -50px;
+    background-size: 100% auto;
+}
+
+.title-store {
+    background-color: #fff8e8;
+    border-style: solid;
+    border-color: #ae847e;
+    padding: 10px;
+}
+
+.title,
+.subtitle,
+.form-text {
+    font-family: 'Georgia', 'Serif';
+    text-align: center;
+    /*text-shadow: 1px 1px 0px #fff8e8;*/
+}
+
+.title {
+    color: #2e2836;
+    font-size: 50px;
+    margin: 5px auto;
+}
+
+.subtitle {
+    color: #ae847e;
+    font-size: large;
+    margin: 5px auto;
+}

@@ -1,0 +1,23 @@
+.menu-bar {
+    background-color: #ae847e;
+    list-style-type: none;
+    margin: 0px;
+    overflow: hidden;
+    padding: 0px;
+}
+
+.menu-bar li a {
+    color: #fff8e8;
+    display: block;
+    font-family: 'Georgia', 'Serif';
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+#first-option {
+    float: left;
+}
+
+#second-option {
+    float: right;
+}

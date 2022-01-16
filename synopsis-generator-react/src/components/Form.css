@@ -1,0 +1,36 @@
+.book-selector-wrapper {
+    border-color: #ae847e;
+    border-style: solid;
+    margin: 50px auto;
+    padding: 50px 25px;
+    width: 50%;
+}
+
+h3,
+.book-label {
+    font-family: 'Georgia', 'Serif';
+    text-align: center;
+}
+
+h3 {
+    color: #ae847e;
+    font-size: large;
+    margin: 5px auto;
+}
+
+.book-label {
+    font-size: small;
+    color: #ae847e;
+}
+
+
+.book-1-selector,
+.book-2-selector {
+    border-color: #ae847e;
+    border-style: solid;
+    display: block;
+    font-family: 'Courier New', 'Serif';
+    margin: 10px auto 50px auto;
+    padding: 5px;
+    width: 50%;
+}

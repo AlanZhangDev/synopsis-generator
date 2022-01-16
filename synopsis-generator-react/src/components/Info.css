@@ -1,0 +1,15 @@
+.content {
+    border-color: #ae847e;
+    border-style: solid none none none;
+    padding: 2% 0 0 0;
+}
+
+p {
+    color: #2e2836;
+    font-family: 'Courier New', 'Serif';
+    padding: 10px;
+    text-align: justify;
+    text-justify: inter-word;
+    margin: auto;
+    width: 60%;
+}
