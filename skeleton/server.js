@@ -35,7 +35,7 @@ app.get("/openai/:prompt", function(req, res)
         headers: 
         {
             "Content-Type": "application/json",
-            "Authorization": "Bearer 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"
+            "Authorization": "Bearer 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"
         }
     };
 
